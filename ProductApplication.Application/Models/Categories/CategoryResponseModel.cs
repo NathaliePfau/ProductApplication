@@ -1,4 +1,6 @@
-﻿namespace ProductApplication.Application.Models.Categories
+﻿using ProductApplication.Domain.Entities;
+
+namespace ProductApplication.Application.Models.Categories
 {
     public class CategoryResponseModel : CategoryBaseModel
     {

@@ -1,7 +1,7 @@
-﻿using ProductApplication.Domain.ComplexType;
-using System;
+﻿using FluentValidation;
+using ProductApplication.Domain.ComplexType;
+using ProductApplication.Domain.Validations;
 using System.Collections.Generic;
-using System.Text;
 
 namespace ProductApplication.Domain.Entities
 {
